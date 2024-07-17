@@ -34,6 +34,27 @@
       "organizer": "Carey Wales"
     },
     {
+      "id": 1002,
+      "category": "food",
+      "title": "Canned Food Drive",
+      "description": "Bring your canned food to donate to those in need.",
+      "location": "Tin City",
+      "date": "September 14, 2022",
+      "time": "3:00",
+      "petsAllowed": true,
+      "organizer": "Kahn Opiner"
+    }, {
+      "id": 1003,
+      "category": "sustainability",
+      "title": "Highway Cleanup",
+      "description": "Help pick up trash along the highway.",
+      "location": "Highway 50",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Brody Kill"
+    },
+    {
       "id": 1111111,
       "category": "Thai language",
       "title": "Sunthorn pooh",
